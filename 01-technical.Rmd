@@ -107,7 +107,7 @@ As the name suggests, this [podcast](https://r-podcast.org/) is focused on R.
 A podcast talking about machine learning. The hosts Katherine Gorman and Neil Lawrence bring clear conversations with experts in the field, insightful discussions of industry topics, and useful answers to questions.
 
 * [Website](http://www.thetalkingmachines.com/)
-* [\TlkngMchns](https://twitter.com/TlkngMchns)
+* [\@TlkngMchns](https://twitter.com/TlkngMchns)
 * [Soundcloud](https://soundcloud.com/talkingmachines)
 * [RSS](http://www.thetalkingmachines.com/blog/?format=RSS)
 * [iTunes](https://itunes.apple.com/us/podcast/episodes-talking-machines/id955198749?mt=2)
